@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Comparator Chatbot</title>
+    <style>
+        
+        .result pre { background-color: #eee; padding: 10px; border-radius: 3px; white-space: pre-wrap; word-wrap: break-word; }
+        .result .source { font-weight: bold; }
+        .result .price { color: green; font-weight: bold; font-size: 1.1em; }
+        .result .link { word-break: break-all; } 
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Price Comparator</h1>
+        <p>Ask me to find the best price for a product!</p>
+
+        <form action="/search" method="post" id="search-form">
+            <div class="form-group">
+                <label for="query">Your Request:</label>
+                <input type="text" id="query" name="query" required placeholder="e.g., Find the best price for iPhone 15 256GB" value="{{ query | default('') }}">
+            </div>
+            <input type="submit" value="Search">
+        </form>
+
+        <div id="result-area" class="result" {% if not result and not errors and not query %}style="display: none;"{% endif %}>
+
+            <div id="loading-message" class="loading" style="display: none;">Searching... please wait. This can take up to a minute depending on website responses.</div>
+
+            {% if errors %}
+            <div id="error-message" class="error">
+                <h3>Errors Encountered:</h3>
+                <ul>
+                    {% for error in errors %}
+                        <li>{{ error }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if search_term and search_term != query %}
+                <p><i>(Interpreted search term: {{ search_term }})</i></p>
+             {% endif %}
+
+
+            {% if result %}
+                <div id="search-result">
+                 <h3>Best Offer Found:</h3>
+                 <p><span class="source">Source:</span> {{ result.source }}</p>
+                 <p><span class="source">Product:</span> {{ result.title }}</p>
+                 <p><span class="source">Price:</span> <span class="price">₹{{ "%.2f"|format(result.price) }}</span></p>
+                 <p><span class="source">Link:</span> <a href="{{ result.link }}" target="_blank" class="link">{{ result.link }}</a></p>
+                 <hr>
+                 <p><small>Based on query: {{ result.original_query }}</small></p>
+                 </div>
+            {% elif query and not errors %}
+                <div id="search-result">
+                    <p>No matching product found based on the search criteria.</p>
+                </div>
+            {% endif %}
+
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('search-form').addEventListener('submit', function() {
+            
+            if (document.getElementById('query').value.trim() !== '') {
+                document.getElementById('result-area').style.display = 'block';
+                document.getElementById('loading-message').style.display = 'block';
+               
+                let resultDiv = document.getElementById('search-result');
+                if(resultDiv) resultDiv.innerHTML = '';
+                let errorDiv = document.getElementById('error-message');
+                if(errorDiv) errorDiv.style.display = 'none';
+            }
+        });
+        window.addEventListener('load', function() {
+            
+             let resultDivContent = document.getElementById('search-result')?.innerHTML.trim();
+             let errorDivDisplayed = document.getElementById('error-message')?.style.display !== 'none' && document.getElementById('error-message')?.innerHTML.trim() !== '';
+
+             if (resultDivContent || errorDivDisplayed) {
+                  document.getElementById('loading-message').style.display = 'none';
+                  document.getElementById('result-area').style.display = 'block'; 
+             } else if (!document.getElementById('query')?.value) {
+                
+                 document.getElementById('result-area').style.display = 'none';
+             }
+
+        });
+    </script>
+</body>
+</html>

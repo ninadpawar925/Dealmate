@@ -1,0 +1,92 @@
+2025-04-08 04:33:33,551 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-10 13:38:41,262 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-10 13:38:41,368 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-10 13:38:41,369 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 13:38:41,371 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 13:38:43,498 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-10 13:38:43,601 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 13:38:43,606 - werkzeug - INFO -  * Debugger PIN: 796-811-383
+2025-04-10 13:39:03,772 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:39:03] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:47:47,284 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:47:47] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:47:59,371 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:47:59] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:51:21,316 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:51:21] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:51:31,107 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:51:31] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:51:46,981 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:51:46] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:52:04,122 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:52:04] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:52:42,632 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:52:42] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 13:53:02,128 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 13:53:02] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:09:51,426 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:09:51] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:09:56,673 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:09:56] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:10:06,872 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:10:06] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:10:18,865 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:10:18] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:11:29,353 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:11:29] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:11:34,988 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:11:34] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:11:39,779 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:11:39] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:11:45,634 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:11:45] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:12:14,709 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:12:14] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:13:58,125 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:13:58] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 14:14:08,563 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:14:08] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 16:24:12,140 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 16:24:12] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-10 16:24:21,971 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 16:24:21] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-11 05:22:21,908 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 05:22:21] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-11 05:22:22,763 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 05:22:22] "POST /api/login HTTP/1.1" 200 -
+2025-04-11 05:22:33,419 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 05:22:33] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-11 05:23:35,130 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 05:23:35] "[33mOPTIONS /api/search HTTP/1.1[0m" 404 -
+2025-04-11 05:23:56,941 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 05:23:56] "[33mOPTIONS /api/search/image HTTP/1.1[0m" 404 -
+2025-04-11 05:24:54,398 - werkzeug - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-11 05:24:55,113 - werkzeug - INFO -  * Restarting with stat
+2025-04-11 06:31:40,550 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-11 06:31:40,724 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-11 06:31:40,725 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 06:31:40,728 - werkzeug - INFO -  * Restarting with stat
+2025-04-11 06:31:42,182 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-11 06:31:42,353 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 06:31:42,356 - werkzeug - INFO -  * Debugger PIN: 796-811-383
+2025-04-11 06:31:44,477 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 06:31:44] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-11 06:31:44,965 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 06:31:44] "POST /api/login HTTP/1.1" 200 -
+2025-04-11 06:44:06,202 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 06:44:06] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-11 06:44:06,672 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 06:44:06] "POST /api/login HTTP/1.1" 200 -
+2025-04-11 07:15:34,060 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-11 07:15:34,143 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-11 07:15:34,144 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 07:15:34,145 - werkzeug - INFO -  * Restarting with stat
+2025-04-11 07:15:35,699 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-11 07:15:35,775 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 07:15:35,779 - werkzeug - INFO -  * Debugger PIN: 796-811-383
+2025-04-11 08:05:08,590 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-11 08:05:08,874 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-11 08:05:08,874 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:05:08,877 - werkzeug - INFO -  * Restarting with stat
+2025-04-11 08:05:10,595 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-11 08:05:10,688 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:05:10,695 - werkzeug - INFO -  * Debugger PIN: 796-811-383
+2025-04-22 18:27:21,072 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-22 18:27:21,507 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.100:5000
+2025-04-22 18:27:21,507 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 18:27:21,509 - werkzeug - INFO -  * Restarting with stat
+2025-04-22 18:27:22,879 - __main__ - INFO - Google Gemini client initialized successfully.
+2025-04-22 18:27:22,950 - werkzeug - WARNING -  * Debugger is active!
+2025-04-22 18:27:22,955 - werkzeug - INFO -  * Debugger PIN: 796-811-383
+2025-04-22 18:28:27,488 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:27] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-22 18:28:27,978 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:27] "POST /api/login HTTP/1.1" 200 -
+2025-04-22 18:28:32,770 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:32] "[33mOPTIONS /api/settings HTTP/1.1[0m" 404 -
+2025-04-22 18:28:33,087 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:33] "[33mOPTIONS /api/settings HTTP/1.1[0m" 404 -
+2025-04-22 18:28:35,367 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:35] "OPTIONS /api/profile HTTP/1.1" 200 -
+2025-04-22 18:28:35,369 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:35] "OPTIONS /api/profile HTTP/1.1" 200 -
+2025-04-22 18:28:35,637 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:35] "GET /api/profile HTTP/1.1" 200 -
+2025-04-22 18:28:35,683 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 18:28:35] "GET /api/profile HTTP/1.1" 200 -

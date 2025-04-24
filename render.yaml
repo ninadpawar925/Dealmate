@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: flask-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    autoDeploy: true
+    envVars:
+      - key: JWT_SECRET_KEY
+        value: your-super-secret-jwt
+      - key: SERPAPI_API_KEY
+        value: your-serpapi-key
+      - key: GOOGLE_API_KEY
+        value: your-gemini-key

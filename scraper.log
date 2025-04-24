@@ -1,0 +1,1057 @@
+2025-04-08 02:00:41,133 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:00:41,307 - WARNING -  * Debugger is active!
+2025-04-08 02:00:41,309 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:00:47,344 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\amazon_scraper.py', reloading
+2025-04-08 02:00:49,438 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:00:49,495 - WARNING -  * Debugger is active!
+2025-04-08 02:00:49,497 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:01:14,903 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:01:15,076 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:01:15,077 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:01:15,078 - INFO -  * Restarting with stat
+2025-04-08 02:01:16,467 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:01:16,524 - WARNING -  * Debugger is active!
+2025-04-08 02:01:16,538 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:01:29,400 - INFO - 127.0.0.1 - - [08/Apr/2025 02:01:29] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:01:29,652 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:01:29,653 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:01:30,771 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:01:35,765 - INFO - FLIPKART: Found 24 product containers.
+2025-04-08 02:01:35,783 - INFO - FLIPKART: Extracted 0 products.
+2025-04-08 02:01:35,784 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:01:36,907 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:01:43,487 - INFO - AMAZON: Found 16 product containers.
+2025-04-08 02:01:43,512 - INFO - AMAZON: Extracted 0 products.
+2025-04-08 02:01:43,523 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:01:43,524 - INFO - 127.0.0.1 - - [08/Apr/2025 02:01:43] "[33mPOST /api/search HTTP/1.1[0m" 404 -
+2025-04-08 02:06:04,591 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\flipkart_scraper.py', reloading
+2025-04-08 02:06:12,977 - INFO -  * Restarting with stat
+2025-04-08 02:08:17,110 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:08:17,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:08:17,177 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:08:17,178 - INFO -  * Restarting with stat
+2025-04-08 02:08:18,723 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:08:18,779 - WARNING -  * Debugger is active!
+2025-04-08 02:08:18,781 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:08:46,957 - INFO - 127.0.0.1 - - [08/Apr/2025 02:08:46] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:08:47,207 - INFO - 127.0.0.1 - - [08/Apr/2025 02:08:47] "[31m[1mPOST /api/search HTTP/1.1[0m" 401 -
+2025-04-08 02:08:48,812 - INFO - 127.0.0.1 - - [08/Apr/2025 02:08:48] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-08 02:08:49,352 - INFO - 127.0.0.1 - - [08/Apr/2025 02:08:49] "POST /api/login HTTP/1.1" 200 -
+2025-04-08 02:08:56,008 - INFO - 127.0.0.1 - - [08/Apr/2025 02:08:56] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:08:56,312 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:08:56,313 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:08:57,480 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:09:02,740 - INFO - Updating selectors for flipkart...
+2025-04-08 02:09:02,740 - INFO - Flipkart selectors updated dynamically!
+2025-04-08 02:09:02,841 - INFO - FLIPKART: Found 1 product containers.
+2025-04-08 02:09:02,843 - INFO - FLIPKART: Extracted 0 products.
+2025-04-08 02:09:02,843 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:09:03,929 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:09:09,566 - INFO - Updating selectors for amazon...
+2025-04-08 02:09:09,566 - INFO - Amazon selectors updated dynamically!
+2025-04-08 02:09:09,696 - INFO - AMAZON: Found 0 product containers.
+2025-04-08 02:09:09,696 - INFO - AMAZON: Extracted 0 products.
+2025-04-08 02:09:09,715 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:09:09,715 - INFO - 127.0.0.1 - - [08/Apr/2025 02:09:09] "[33mPOST /api/search HTTP/1.1[0m" 404 -
+2025-04-08 02:13:08,808 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selector_updater.py', reloading
+2025-04-08 02:13:17,340 - INFO -  * Restarting with stat
+2025-04-08 02:13:19,000 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:13:19,059 - WARNING -  * Debugger is active!
+2025-04-08 02:13:19,061 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:13:26,106 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selector_updater.py', reloading
+2025-04-08 02:13:26,457 - INFO -  * Restarting with stat
+2025-04-08 02:13:28,414 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:13:28,472 - WARNING -  * Debugger is active!
+2025-04-08 02:13:28,475 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:13:48,555 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selector_updater.py', reloading
+2025-04-08 02:13:48,793 - INFO -  * Restarting with stat
+2025-04-08 02:13:50,265 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:13:50,437 - WARNING -  * Debugger is active!
+2025-04-08 02:13:50,439 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:14:26,568 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selector_updater.py', reloading
+2025-04-08 02:14:26,792 - INFO -  * Restarting with stat
+2025-04-08 02:14:28,579 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:14:28,646 - WARNING -  * Debugger is active!
+2025-04-08 02:14:28,648 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:14:49,230 - INFO - 127.0.0.1 - - [08/Apr/2025 02:14:49] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:14:49,493 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:14:49,493 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:14:50,672 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:14:55,471 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:14:55,472 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:14:55,585 - INFO - FLIPKART: Found 1328 product containers.
+2025-04-08 02:14:55,591 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:14:55,591 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:14:55,769 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:15:00,197 - INFO -  * Restarting with stat
+2025-04-08 02:15:01,715 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:15:01,881 - WARNING -  * Debugger is active!
+2025-04-08 02:15:01,883 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:17:03,308 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\amazon_scraper.py', reloading
+2025-04-08 02:17:03,554 - INFO -  * Restarting with stat
+2025-04-08 02:17:05,475 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:17:05,552 - WARNING -  * Debugger is active!
+2025-04-08 02:17:05,556 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:17:19,587 - INFO - 127.0.0.1 - - [08/Apr/2025 02:17:19] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:17:19,834 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:17:19,834 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:17:21,201 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:17:26,596 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:17:26,597 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:17:26,703 - INFO - FLIPKART: Found 1327 product containers.
+2025-04-08 02:17:26,712 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:17:26,713 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:17:26,716 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:17:31,069 - INFO -  * Restarting with stat
+2025-04-08 02:17:32,521 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:17:32,579 - WARNING -  * Debugger is active!
+2025-04-08 02:17:32,581 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:17:47,146 - INFO - 127.0.0.1 - - [08/Apr/2025 02:17:47] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:17:47,410 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 14' -> 'iphone 14'
+2025-04-08 02:17:47,411 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+14
+2025-04-08 02:17:48,509 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:17:54,413 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:17:54,413 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:17:54,518 - INFO - FLIPKART: Found 1278 product containers.
+2025-04-08 02:17:54,525 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:17:54,525 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+14
+2025-04-08 02:17:54,700 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:17:59,024 - INFO -  * Restarting with stat
+2025-04-08 02:18:00,491 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:18:00,550 - WARNING -  * Debugger is active!
+2025-04-08 02:18:00,552 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:21:54,991 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:21:55,173 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:21:55,173 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:21:55,174 - INFO -  * Restarting with stat
+2025-04-08 02:21:56,596 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:21:56,654 - WARNING -  * Debugger is active!
+2025-04-08 02:21:56,657 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:22:24,653 - INFO - 127.0.0.1 - - [08/Apr/2025 02:22:24] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:22:24,905 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:22:24,932 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:22:24,932 - INFO - 127.0.0.1 - - [08/Apr/2025 02:22:24] "[33mPOST /api/search HTTP/1.1[0m" 404 -
+2025-04-08 02:23:22,680 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:23:22,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:23:22,846 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:23:22,848 - INFO -  * Restarting with stat
+2025-04-08 02:23:24,559 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:23:24,631 - WARNING -  * Debugger is active!
+2025-04-08 02:23:24,633 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:23:34,517 - INFO - 127.0.0.1 - - [08/Apr/2025 02:23:34] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:23:34,784 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:23:34,784 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:23:35,938 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:23:40,654 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:23:40,655 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:23:40,752 - INFO - FLIPKART: Found 1319 product containers.
+2025-04-08 02:23:40,759 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:23:40,759 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:23:40,763 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:23:45,074 - INFO -  * Restarting with stat
+2025-04-08 02:23:46,534 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:23:46,591 - WARNING -  * Debugger is active!
+2025-04-08 02:23:46,593 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:24:33,762 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\flipkart_scraper.py', reloading
+2025-04-08 02:24:34,022 - INFO -  * Restarting with stat
+2025-04-08 02:24:35,490 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:24:35,552 - WARNING -  * Debugger is active!
+2025-04-08 02:24:35,554 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:24:44,877 - INFO - 127.0.0.1 - - [08/Apr/2025 02:24:44] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:24:45,125 - INFO - 127.0.0.1 - - [08/Apr/2025 02:24:45] "[31m[1mPOST /api/search HTTP/1.1[0m" 401 -
+2025-04-08 02:24:46,617 - INFO - 127.0.0.1 - - [08/Apr/2025 02:24:46] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-08 02:24:47,136 - INFO - 127.0.0.1 - - [08/Apr/2025 02:24:47] "POST /api/login HTTP/1.1" 200 -
+2025-04-08 02:24:53,662 - INFO - 127.0.0.1 - - [08/Apr/2025 02:24:53] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:24:53,970 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:24:53,971 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:25:00,481 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:25:00,482 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:25:00,487 - INFO - FLIPKART: Found 1319 product containers.
+2025-04-08 02:25:00,494 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:25:00,655 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:25:00,886 - INFO -  * Restarting with stat
+2025-04-08 02:25:02,285 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:25:02,461 - WARNING -  * Debugger is active!
+2025-04-08 02:25:02,463 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:27:10,898 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\amazon_scraper.py', reloading
+2025-04-08 02:27:11,216 - INFO -  * Restarting with stat
+2025-04-08 02:27:12,779 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:27:12,844 - WARNING -  * Debugger is active!
+2025-04-08 02:27:12,846 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:27:22,563 - INFO - 127.0.0.1 - - [08/Apr/2025 02:27:22] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:27:22,810 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:27:22,811 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:27:28,551 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:27:28,552 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:27:28,558 - INFO - FLIPKART: Found 1331 product containers.
+2025-04-08 02:27:28,565 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:27:28,915 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:27:29,189 - INFO -  * Restarting with stat
+2025-04-08 02:27:30,570 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:27:30,634 - WARNING -  * Debugger is active!
+2025-04-08 02:27:30,636 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:32:31,682 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-08 02:32:31,932 - INFO -  * Restarting with stat
+2025-04-08 02:32:33,398 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:32:33,463 - WARNING -  * Debugger is active!
+2025-04-08 02:32:33,466 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:32:35,484 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-08 02:32:35,708 - INFO -  * Restarting with stat
+2025-04-08 02:32:37,472 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:32:37,538 - WARNING -  * Debugger is active!
+2025-04-08 02:32:37,540 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:33:07,661 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-08 02:33:07,888 - INFO -  * Restarting with stat
+2025-04-08 02:33:09,285 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:33:09,349 - WARNING -  * Debugger is active!
+2025-04-08 02:33:09,351 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:33:32,378 - INFO - 127.0.0.1 - - [08/Apr/2025 02:33:32] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:33:32,640 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:33:32,640 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:33:32,641 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:33:32,641 - INFO - ====== WebDriver manager ======
+2025-04-08 02:33:37,813 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:33:37,814 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:33:37,819 - INFO - FLIPKART: Found 1325 product containers.
+2025-04-08 02:33:37,826 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:33:38,481 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:33:38,818 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 02:33:38,818 - ERROR - AMAZON: Scraper error: 'NoneType' object has no attribute 'split'
+2025-04-08 02:33:44,666 - ERROR - Unexpected error during live search for query 'iphone 15': bad character range ,-\( at position 1
+Traceback (most recent call last):
+  File "D:\Project\price_comparator\app.py", line 291, in handle_search_api
+    best_overall = find_best_price(all_results, product_to_search)
+  File "D:\Project\price_comparator\app.py", line 52, in find_best_price
+    if simple_match(title, query):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\Project\price_comparator\app.py", line 36, in simple_match
+    cleaned_title = re.sub(r'[,-\(\)\[\]]', ' ', title.lower())
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 208, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 350, in _compile
+    p = _compiler.compile(pattern, flags)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_compiler.py", line 743, in compile
+    p = _parser.parse(p, flags)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 980, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 459, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 616, in _parse
+    raise source.error(msg, len(this) + 1 + len(that))
+re.PatternError: bad character range ,-\( at position 1
+2025-04-08 02:33:44,924 - INFO -  * Restarting with stat
+2025-04-08 02:33:46,302 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:33:46,363 - WARNING -  * Debugger is active!
+2025-04-08 02:33:46,366 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:34:54,623 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\amazon_scraper.py', reloading
+2025-04-08 02:34:54,851 - INFO -  * Restarting with stat
+2025-04-08 02:34:56,522 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:34:56,599 - WARNING -  * Debugger is active!
+2025-04-08 02:34:56,601 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:35:04,814 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:35:04,889 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:35:04,889 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:35:04,890 - INFO -  * Restarting with stat
+2025-04-08 02:35:06,250 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:35:06,424 - WARNING -  * Debugger is active!
+2025-04-08 02:35:06,426 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:35:46,656 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:35:46,729 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:35:46,729 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:35:46,731 - INFO -  * Restarting with stat
+2025-04-08 02:35:48,063 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:35:48,241 - WARNING -  * Debugger is active!
+2025-04-08 02:35:48,243 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:36:00,792 - INFO - 127.0.0.1 - - [08/Apr/2025 02:36:00] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:36:01,059 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:36:01,072 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:36:01,072 - INFO - 127.0.0.1 - - [08/Apr/2025 02:36:01] "[33mPOST /api/search HTTP/1.1[0m" 404 -
+2025-04-08 02:36:58,482 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\auto_selector.py', reloading
+2025-04-08 02:36:58,800 - INFO -  * Restarting with stat
+2025-04-08 02:37:00,554 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:37:00,632 - WARNING -  * Debugger is active!
+2025-04-08 02:37:00,634 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:37:09,127 - INFO - 127.0.0.1 - - [08/Apr/2025 02:37:09] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:37:09,393 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:37:09,394 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:37:09,395 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:37:09,395 - INFO - ====== WebDriver manager ======
+2025-04-08 02:37:16,244 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:37:16,245 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:37:16,250 - INFO - FLIPKART: Found 1322 product containers.
+2025-04-08 02:37:16,258 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:37:16,697 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:37:17,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 02:37:17,207 - ERROR - ERROR: AMAZON: Scraper error: 'NoneType' object has no attribute 'split'
+2025-04-08 02:37:23,076 - ERROR - Unexpected error during live search for query 'iphone 15': bad character range ,-\( at position 1
+Traceback (most recent call last):
+  File "D:\Project\price_comparator\app.py", line 291, in handle_search_api
+    best_overall = find_best_price(all_results, product_to_search)
+  File "D:\Project\price_comparator\app.py", line 52, in find_best_price
+    if simple_match(title, query):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\Project\price_comparator\app.py", line 36, in simple_match
+    cleaned_title = re.sub(r'[,-\(\)\[\]]', ' ', title.lower())
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 208, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 350, in _compile
+    p = _compiler.compile(pattern, flags)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_compiler.py", line 743, in compile
+    p = _parser.parse(p, flags)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 980, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 459, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 616, in _parse
+    raise source.error(msg, len(this) + 1 + len(that))
+re.PatternError: bad character range ,-\( at position 1
+2025-04-08 02:37:23,289 - INFO -  * Restarting with stat
+2025-04-08 02:37:24,683 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:37:24,746 - WARNING -  * Debugger is active!
+2025-04-08 02:37:24,748 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:44:17,369 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:44:17,556 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:44:17,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:44:17,558 - INFO -  * Restarting with stat
+2025-04-08 02:44:19,118 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:44:19,202 - WARNING -  * Debugger is active!
+2025-04-08 02:44:19,205 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:44:26,398 - INFO - 127.0.0.1 - - [08/Apr/2025 02:44:26] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:44:26,647 - INFO - 127.0.0.1 - - [08/Apr/2025 02:44:26] "[31m[1mPOST /api/search HTTP/1.1[0m" 401 -
+2025-04-08 02:44:28,323 - INFO - 127.0.0.1 - - [08/Apr/2025 02:44:28] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-08 02:44:28,865 - INFO - 127.0.0.1 - - [08/Apr/2025 02:44:28] "POST /api/login HTTP/1.1" 200 -
+2025-04-08 02:44:36,374 - INFO - 127.0.0.1 - - [08/Apr/2025 02:44:36] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:44:36,682 - INFO - User 5b4b8df6-0711-4c3a-9c48-81b12a569dae searching (Live): 'iphone 15' -> 'iphone 15'
+2025-04-08 02:44:36,682 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone+15
+2025-04-08 02:44:36,683 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:44:36,683 - INFO - ====== WebDriver manager ======
+2025-04-08 02:44:42,333 - INFO - 
+Flipkart selectors updated dynamically!
+Container: div
+Title: span
+Price: div.Nx9bqj._4b5DiR
+Link: a
+2025-04-08 02:44:42,333 - INFO - Flipkart selectors written to selectors_config.py \u2705
+2025-04-08 02:44:42,341 - INFO - FLIPKART: Found 1322 product containers.
+2025-04-08 02:44:42,354 - INFO - FLIPKART: Extracted 3 products.
+2025-04-08 02:44:42,357 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\selectors_config.py', reloading
+2025-04-08 02:44:43,350 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 02:44:43,350 - ERROR - ERROR: AMAZON: Scraper error: 'NoneType' object has no attribute 'split'
+2025-04-08 02:44:49,215 - ERROR - Unexpected error during live search for query 'iphone 15': bad character range ,-\( at position 1
+Traceback (most recent call last):
+  File "D:\Project\price_comparator\app.py", line 291, in handle_search_api
+    best_overall = find_best_price(all_results, product_to_search)
+  File "D:\Project\price_comparator\app.py", line 52, in find_best_price
+    if simple_match(title, query):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "D:\Project\price_comparator\app.py", line 36, in simple_match
+    cleaned_title = re.sub(r'[,-\(\)\[\]]', ' ', title.lower())
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 208, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\__init__.py", line 350, in _compile
+    p = _compiler.compile(pattern, flags)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_compiler.py", line 743, in compile
+    p = _parser.parse(p, flags)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 980, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 459, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\re\_parser.py", line 616, in _parse
+    raise source.error(msg, len(this) + 1 + len(that))
+re.PatternError: bad character range ,-\( at position 1
+2025-04-08 02:44:49,429 - INFO -  * Restarting with stat
+2025-04-08 02:44:50,816 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:44:50,879 - WARNING -  * Debugger is active!
+2025-04-08 02:44:50,882 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:51:22,642 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:51:22,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:51:22,707 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:51:22,708 - INFO -  * Restarting with stat
+2025-04-08 02:51:24,112 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:51:24,174 - WARNING -  * Debugger is active!
+2025-04-08 02:51:24,176 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:51:35,525 - INFO - 127.0.0.1 - - [08/Apr/2025 02:51:35] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:51:38,821 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:51:39,387 - ERROR - FLIPKART: Scraper error: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\lenovo\\appdata\\roaming\\undetected_chromedriver\\undetected\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\lenovo\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'
+2025-04-08 02:51:39,610 - INFO - setting properties for headless
+2025-04-08 02:51:39,610 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone+15
+2025-04-08 02:51:44,554 - INFO - 
+Container: div.keyboard-shortcut-container
+Title: span.a-offscreen
+Price: None
+Link: a.nav-a.nav-a-2.a-popover-trigger.a-declarative.nav-progressive-attribute
+2025-04-08 02:51:44,555 - INFO - AMAZON: Found 16 product containers.
+2025-04-08 02:51:44,556 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,557 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,557 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,558 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,559 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,559 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,560 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,561 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,561 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,562 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,562 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,563 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,563 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,564 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,565 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,565 - WARNING - AMAZON: Error parsing container: 'NoneType' object has no attribute 'get_text'
+2025-04-08 02:51:44,565 - INFO - AMAZON: Extracted 0 products.
+2025-04-08 02:51:44,792 - ERROR - Error exporting history to CSV: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with SearchHistory.query has an attribute 'all'
+2025-04-08 02:51:44,793 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:51:44,793 - INFO - 127.0.0.1 - - [08/Apr/2025 02:51:44] "[35m[1mPOST /api/search HTTP/1.1[0m" 503 -
+2025-04-08 02:53:29,634 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\flipkart_scraper.py', reloading
+2025-04-08 02:53:29,635 - INFO - ensuring close
+2025-04-08 02:53:29,635 - INFO - ensuring close
+2025-04-08 02:53:33,942 - INFO -  * Restarting with stat
+2025-04-08 02:53:35,826 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:53:36,001 - WARNING -  * Debugger is active!
+2025-04-08 02:53:36,003 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:53:43,038 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\amazon_scraper.py', reloading
+2025-04-08 02:53:43,288 - INFO -  * Restarting with stat
+2025-04-08 02:53:45,050 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:53:45,212 - WARNING -  * Debugger is active!
+2025-04-08 02:53:45,214 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:55:06,525 - INFO - 127.0.0.1 - - [08/Apr/2025 02:55:06] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:55:06,790 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone 15
+2025-04-08 02:55:06,790 - ERROR - Flipkart scraper error: module 'undetected_chromedriver' has no attribute 'install'
+2025-04-08 02:55:06,790 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone 15
+2025-04-08 02:55:06,791 - ERROR - Amazon scraper error: module 'undetected_chromedriver' has no attribute 'install'
+2025-04-08 02:55:06,814 - ERROR - Error exporting history to CSV: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with SearchHistory.query has an attribute 'all'
+2025-04-08 02:55:06,814 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:55:06,815 - INFO - 127.0.0.1 - - [08/Apr/2025 02:55:06] "[35m[1mPOST /api/search HTTP/1.1[0m" 503 -
+2025-04-08 02:57:04,870 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\flipkart_scraper.py', reloading
+2025-04-08 02:57:05,101 - INFO -  * Restarting with stat
+2025-04-08 02:57:06,636 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:57:06,808 - WARNING -  * Debugger is active!
+2025-04-08 02:57:06,810 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:57:19,864 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\scrapers\\amazon_scraper.py', reloading
+2025-04-08 02:57:20,148 - INFO -  * Restarting with stat
+2025-04-08 02:57:21,975 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:57:22,229 - WARNING -  * Debugger is active!
+2025-04-08 02:57:22,231 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:57:34,434 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:57:34,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 02:57:34,499 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 02:57:34,500 - INFO -  * Restarting with stat
+2025-04-08 02:57:35,881 - INFO - Google Gemini client initialized successfully.
+2025-04-08 02:57:36,054 - WARNING -  * Debugger is active!
+2025-04-08 02:57:36,057 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 02:57:53,867 - INFO - 127.0.0.1 - - [08/Apr/2025 02:57:53] "OPTIONS /api/search HTTP/1.1" 200 -
+2025-04-08 02:57:54,131 - INFO - FLIPKART: Fetching URL: https://www.flipkart.com/search?q=iphone 15
+2025-04-08 02:57:54,132 - INFO - AMAZON: Fetching URL: https://www.amazon.in/s?k=iphone 15
+2025-04-08 02:57:57,590 - ERROR - Flipkart scraper error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\lenovo\\appdata\\roaming\\undetected_chromedriver\\undetected\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\lenovo\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'
+2025-04-08 02:57:57,617 - INFO - patching driver executable C:\Users\lenovo\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-08 02:57:58,364 - INFO - setting properties for headless
+2025-04-08 02:58:03,140 - INFO - 
+Container: div.keyboard-shortcut-container
+Title: span.a-offscreen
+Price: None
+Link: a.nav-a.nav-a-2.a-popover-trigger.a-declarative.nav-progressive-attribute
+2025-04-08 02:58:03,151 - INFO - AMAZON: Found 16 product containers.
+2025-04-08 02:58:03,161 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,167 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,174 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,195 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,200 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,209 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,215 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,222 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,230 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,237 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,243 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,249 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,256 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,263 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,269 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,276 - WARNING - AMAZON: Skipping container due to error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 span.a-size-medium"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00435413+60691]
+	GetHandleVerifier [0x00435454+60756]
+	(No symbol) [0x00260693]
+	(No symbol) [0x002A8660]
+	(No symbol) [0x002A89FB]
+	(No symbol) [0x0029DDA1]
+	(No symbol) [0x002CD0A4]
+	(No symbol) [0x0029DCC4]
+	(No symbol) [0x002CD2D4]
+	(No symbol) [0x002EE6FB]
+	(No symbol) [0x002CCE56]
+	(No symbol) [0x0029C5F3]
+	(No symbol) [0x0029D444]
+	GetHandleVerifier [0x0067BBC3+2446531]
+	GetHandleVerifier [0x00677198+2427544]
+	GetHandleVerifier [0x00692D5E+2541150]
+	GetHandleVerifier [0x0044C3C5+154821]
+	GetHandleVerifier [0x00452BED+181485]
+	GetHandleVerifier [0x0043CC48+91464]
+	GetHandleVerifier [0x0043CDF0+91888]
+	GetHandleVerifier [0x00427980+4736]
+	BaseThreadInitThunk [0x77685D29+25]
+	RtlInitializeExceptionChain [0x77CBD8AB+107]
+	RtlGetAppContainerNamedObjectPath [0x77CBD831+561]
+
+2025-04-08 02:58:03,276 - INFO - AMAZON: Extracted 0 products.
+2025-04-08 02:58:03,423 - ERROR - Error exporting history to CSV: Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with SearchHistory.query has an attribute 'all'
+2025-04-08 02:58:03,424 - INFO - Saved history for user 5b4b8df6-0711-4c3a-9c48-81b12a569dae
+2025-04-08 02:58:03,424 - INFO - 127.0.0.1 - - [08/Apr/2025 02:58:03] "[35m[1mPOST /api/search HTTP/1.1[0m" 503 -
+2025-04-08 03:05:38,663 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-08 03:05:38,664 - INFO - ensuring close
+2025-04-08 03:05:38,664 - INFO - ensuring close
+2025-04-08 03:05:42,953 - INFO -  * Restarting with stat
+2025-04-08 04:00:38,050 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:00:38,143 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 04:00:38,144 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 04:00:38,147 - INFO -  * Restarting with stat
+2025-04-08 04:00:40,056 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:00:40,135 - WARNING -  * Debugger is active!
+2025-04-08 04:00:40,139 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 04:01:10,381 - INFO - 127.0.0.1 - - [08/Apr/2025 04:01:10] "OPTIONS /api/login HTTP/1.1" 200 -
+2025-04-08 04:01:10,912 - INFO - 127.0.0.1 - - [08/Apr/2025 04:01:10] "POST /api/login HTTP/1.1" 200 -
+2025-04-08 04:26:00,930 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:26:01,006 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 04:26:01,007 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 04:26:01,009 - INFO -  * Restarting with stat
+2025-04-08 04:26:02,565 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:26:02,632 - WARNING -  * Debugger is active!
+2025-04-08 04:26:02,634 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 04:27:59,874 - INFO - 127.0.0.1 - - [08/Apr/2025 04:27:59] "OPTIONS /api/register HTTP/1.1" 200 -
+2025-04-08 04:28:00,384 - ERROR - Register error: (psycopg2.errors.NotNullViolation) null value in column "email" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (22b481a2-434c-4fd9-b5ff-302f48fa5f7a, shrushti tanawade, null, $2b$12$pOS1H574o5b5Wa5Zaji5deRe9Zus2gvNluUhloaosygdRYfpBqIuG, 2025-04-07 22:58:00.362304, 2025-04-07 22:58:00.362312, t, f).
+
+[SQL: INSERT INTO users (id, username, email, password_hash, created_at, updated_at, email_notifications_enabled, dark_mode_enabled) VALUES (%(id)s, %(username)s, %(email)s, %(password_hash)s, %(created_at)s, %(updated_at)s, %(email_notifications_enabled)s, %(dark_mode_enabled)s)]
+[parameters: {'id': '22b481a2-434c-4fd9-b5ff-302f48fa5f7a', 'username': 'shrushti tanawade', 'email': None, 'password_hash': '$2b$12$pOS1H574o5b5Wa5Zaji5deRe9Zus2gvNluUhloaosygdRYfpBqIuG', 'created_at': datetime.datetime(2025, 4, 7, 22, 58, 0, 362304), 'updated_at': datetime.datetime(2025, 4, 7, 22, 58, 0, 362312), 'email_notifications_enabled': True, 'dark_mode_enabled': False}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-08 04:28:00,385 - INFO - 127.0.0.1 - - [08/Apr/2025 04:28:00] "[35m[1mPOST /api/register HTTP/1.1[0m" 500 -
+2025-04-08 04:28:19,423 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:28:19,495 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 04:28:19,496 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 04:28:19,498 - INFO -  * Restarting with stat
+2025-04-08 04:28:21,042 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:28:21,110 - WARNING -  * Debugger is active!
+2025-04-08 04:28:21,112 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 04:28:22,648 - INFO - 127.0.0.1 - - [08/Apr/2025 04:28:22] "OPTIONS /api/register HTTP/1.1" 200 -
+2025-04-08 04:28:23,115 - ERROR - Register error: (psycopg2.errors.NotNullViolation) null value in column "email" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (614dca9b-3528-4795-80a7-523a14a4cb43, shrushti tanawade, null, $2b$12$i9LIXs2YwwzBCdO2x6Mmz.fBXREztkDOU.aVtEoGkcxPX9YoNKbga, 2025-04-07 22:58:23.114102, 2025-04-07 22:58:23.114123, t, f).
+
+[SQL: INSERT INTO users (id, username, email, password_hash, created_at, updated_at, email_notifications_enabled, dark_mode_enabled) VALUES (%(id)s, %(username)s, %(email)s, %(password_hash)s, %(created_at)s, %(updated_at)s, %(email_notifications_enabled)s, %(dark_mode_enabled)s)]
+[parameters: {'id': '614dca9b-3528-4795-80a7-523a14a4cb43', 'username': 'shrushti tanawade', 'email': None, 'password_hash': '$2b$12$i9LIXs2YwwzBCdO2x6Mmz.fBXREztkDOU.aVtEoGkcxPX9YoNKbga', 'created_at': datetime.datetime(2025, 4, 7, 22, 58, 23, 114102), 'updated_at': datetime.datetime(2025, 4, 7, 22, 58, 23, 114123), 'email_notifications_enabled': True, 'dark_mode_enabled': False}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-08 04:28:23,116 - INFO - 127.0.0.1 - - [08/Apr/2025 04:28:23] "[35m[1mPOST /api/register HTTP/1.1[0m" 500 -
+2025-04-08 04:29:38,423 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-08 04:29:38,688 - INFO -  * Restarting with stat
+2025-04-08 04:35:14,527 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:35:14,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.120:5000
+2025-04-08 04:35:14,598 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 04:35:14,600 - INFO -  * Restarting with stat
+2025-04-08 04:35:16,006 - INFO - Google Gemini client initialized successfully.
+2025-04-08 04:35:16,065 - WARNING -  * Debugger is active!
+2025-04-08 04:35:16,068 - INFO -  * Debugger PIN: 912-585-727
+2025-04-08 04:35:20,827 - INFO - 127.0.0.1 - - [08/Apr/2025 04:35:20] "OPTIONS /api/register HTTP/1.1" 200 -
+2025-04-08 04:35:21,312 - ERROR - Register error: (psycopg2.errors.NotNullViolation) null value in column "email" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (ddbcd909-8f7d-45a7-90f7-78d09183c5d1, shrushti tanawade, null, $2b$12$ILCZKecffRPfACrftkw.0eczskre.2wwUoqe08KsUwb5Eq8gn3jMq, 2025-04-07 23:05:21.310904, 2025-04-07 23:05:21.310907, t, f).
+
+[SQL: INSERT INTO users (id, username, email, password_hash, created_at, updated_at, email_notifications_enabled, dark_mode_enabled) VALUES (%(id)s, %(username)s, %(email)s, %(password_hash)s, %(created_at)s, %(updated_at)s, %(email_notifications_enabled)s, %(dark_mode_enabled)s)]
+[parameters: {'id': 'ddbcd909-8f7d-45a7-90f7-78d09183c5d1', 'username': 'shrushti tanawade', 'email': None, 'password_hash': '$2b$12$ILCZKecffRPfACrftkw.0eczskre.2wwUoqe08KsUwb5Eq8gn3jMq', 'created_at': datetime.datetime(2025, 4, 7, 23, 5, 21, 310904), 'updated_at': datetime.datetime(2025, 4, 7, 23, 5, 21, 310907), 'email_notifications_enabled': True, 'dark_mode_enabled': False}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-08 04:35:21,313 - INFO - 127.0.0.1 - - [08/Apr/2025 04:35:21] "[35m[1mPOST /api/register HTTP/1.1[0m" 500 -
+2025-04-08 04:38:14,743 - INFO -  * Detected change in 'D:\\Project\\price_comparator\\app.py', reloading
+2025-04-08 04:38:14,988 - INFO -  * Restarting with stat
